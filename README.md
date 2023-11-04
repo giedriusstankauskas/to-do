@@ -1,5 +1,5 @@
-# Color Palette Generator
- A Flask web application to pick dominant and palette colors from an image URL using colorthief package.
+# To-do List
+ A simple To-do list Flask app.
 
 <hr>
 Home screen<br>
